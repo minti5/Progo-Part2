@@ -82,6 +82,13 @@ Click the circular avatar in the top-right corner to upload your own profile pic
 
 To enable voice greeting, add a `welcome.wav` file to the application folder with your recorded welcome message.
 
+## 📸 Screenshots
+
+### Main Interface
+![Main Interface](screenshots/main-interface.png)
+
+
+
 ## ❓ Troubleshooting
 
 **Build Error - "Path ambiguous reference"**
