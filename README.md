@@ -85,7 +85,7 @@ To enable voice greeting, add a `welcome.wav` file to the application folder wit
 ## 📸 Screenshots
 
 ### Main Interface
-![Main Interface](main-interface.png)
+![Main Interface](Progo-Part2/main-interface.png)
 
 ## ❓ Troubleshooting
 
