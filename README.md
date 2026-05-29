@@ -87,8 +87,6 @@ To enable voice greeting, add a `welcome.wav` file to the application folder wit
 ### Main Interface
 ![Main Interface](main-interface.png)
 
-
-
 ## ❓ Troubleshooting
 
 **Build Error - "Path ambiguous reference"**
