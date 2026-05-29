@@ -85,7 +85,7 @@ To enable voice greeting, add a `welcome.wav` file to the application folder wit
 ## 📸 Screenshots
 
 ### Main Interface
-![Main Interface]("screenshots\main - interface.png")
+![Main Interface](main-interface.png)
 
 
 
